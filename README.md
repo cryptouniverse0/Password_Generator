@@ -54,7 +54,7 @@ ___
 ![alt text](https://github.com/nitish9413/Password_Generator/blob/main/UI.png "Application UI")
 ___
 
-# How to use
+# How to use?
 
 #### Clone this repo
 
