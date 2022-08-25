@@ -19,7 +19,7 @@ import streamlit as st
 
 ### Create a function pwd_gen() which will generate a Password which will be called later in this program
 
-#### In char , We have stored lowercase and uppercase letters along with numbers and symbols. this function takes length as input paramter
+#### In char , We have stored lowercase and uppercase letters along with numbers and symbols. this function takes length as input paramters
 ```Python
 char=list(string.ascii_uppercase+string.ascii_lowercase+string.digits+"!@#$%^&*()")
 
